@@ -48,10 +48,11 @@ const content = {
   links: [
     { label: "GitHub", url: "https://github.com/gilnuqui" },
     { label: "LinkedIn", url: "https://www.linkedin.com/in/gil-francois-00435435a" },
+    { label: "Email", url: "gnuqui8426@conestogac.on.ca" },
   ],
 
   // ---------- Skills (optional — set to [] to hide) ----------
-  skills: ["C", "JavaScript", "English"],
+  skills: ["C", "English", "Python", "HTML & CSS", "Git", "SQL"],
 
   // ---------- Projects ----------
   // Link to the GitHub repo (a live demo is optional — a repo is enough!).
@@ -64,6 +65,7 @@ const content = {
       school: "Conestoga College",
       degree: "Bachelor of Computer Science",
       years: "Expected 2029",
+      details: "Relevant courses: Data Structures, Databases, Web Development.",
     },
   ],
 
